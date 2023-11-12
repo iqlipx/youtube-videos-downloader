@@ -3,7 +3,7 @@
 
 ### Subtitle: "Encountered an issue while setting the application icon bitmap; Verify File Path and Permissions"
 
-<br/>
+
 ![image](https://github.com/iqlipx/youtube-videos-downloader/assets/122716618/b3e3697c-740a-4d58-bd13-e4d86e61a622)
 
 
