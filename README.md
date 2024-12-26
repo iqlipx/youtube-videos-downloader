@@ -17,4 +17,8 @@ Error: Unable to Set Icon Bitmap
 - Ensure that the file exists at the specified location and that the program has the necessary permissions to read the file. 
 - Double-check for any typos or inaccuracies in the file path.
 
+**Basically change the icon path in code or you can comment it**
+
+
+
 
