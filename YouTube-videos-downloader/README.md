@@ -25,11 +25,12 @@ Ensure you have Python installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iqlipx/youtube-videos-downloader.git
+   git clone https://github.com/iqlipx/YoutubeVideosDownloader.git
 
 
 # Navigate to the project directory:
 
+- cd YoutubeVideosDownloader
 - cd youtube-videos-downloader
 
 # Install the required dependencies:
